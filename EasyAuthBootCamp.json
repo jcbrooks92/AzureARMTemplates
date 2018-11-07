@@ -82,6 +82,10 @@
                                                 {
                             "name": "resourceId",
                             "value": "Mywebapp.azurewebsites.net"
+                        },
+                          {
+                            "name": "tenantHostName",
+                            "value": "microsoft.onmicrosoft.com"
                         }
                     ]
                 }
